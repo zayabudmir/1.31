@@ -1,0 +1,6 @@
+ name = Ganzaya nickname = Zaya seedNo = 2D gender = Female ig = zaya_bdmr hobby = movie,paint,badminton  
+  name = Garamdagii nickname = Dagii seedNo = 2B gender = female hobby = Movie  
+  name = Chimeg-Erdene seedNo = 3e gender = female nickname = Chimgee hobby = playing puzzle games,watching movie,volleyball,walking  
+  name = Oyunbayar nickname = Omoo seedNo = 4F gender = female hobby = reading,movie,outdoor walking,traveling  
+  name = Maral seedNo = 3A gender = Female nickname = Marla hobby = watching movies,baking  
+ 
